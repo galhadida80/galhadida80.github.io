@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.a1220f6c.chunk.css",
+    "main.js": "/home/static/js/main.e07baefe.chunk.js",
+    "main.js.map": "/home/static/js/main.e07baefe.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
+    "static/js/2.e5184c73.chunk.js": "/home/static/js/2.e5184c73.chunk.js",
+    "static/js/2.e5184c73.chunk.js.map": "/home/static/js/2.e5184c73.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.ed5912266fc8626eacf5b4bf29430c71.js": "/home/precache-manifest.ed5912266fc8626eacf5b4bf29430c71.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.a1220f6c.chunk.css.map": "/home/static/css/main.a1220f6c.chunk.css.map",
+    "static/js/2.e5184c73.chunk.js.LICENSE.txt": "/home/static/js/2.e5184c73.chunk.js.LICENSE.txt",
+    "static/media/gal-hadida.png": "/home/static/media/gal-hadida.e564a407.png",
+    "static/media/resume.pdf": "/home/static/media/resume.2980bbd4.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c590061.js",
+    "static/js/2.e5184c73.chunk.js",
+    "static/css/main.a1220f6c.chunk.css",
+    "static/js/main.e07baefe.chunk.js"
+  ]
+}
